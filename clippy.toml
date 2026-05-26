@@ -1,4 +1,4 @@
-# Clippy configuration for filip
+# Clippy configuration for mono-rt
 
 # Cognitive complexity threshold for functions
 cognitive-complexity-threshold = 25
